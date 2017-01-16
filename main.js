@@ -1,3 +1,3 @@
 module.exports = {
-	Bigint: require('./bigint.js')
+	Bigint: require('./bigint/main.js')
 }
